@@ -1,1 +1,4 @@
 This is some text I am adding to my text file.
+
+
+This is some more text that I am adding to file.
